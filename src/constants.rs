@@ -1,0 +1,2 @@
+pub const MIN_RAISE: u64 = 10;
+pub const MAX_RAISE: u64 = 1000000000000000000;
